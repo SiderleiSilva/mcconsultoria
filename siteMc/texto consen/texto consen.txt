@@ -1,0 +1,54 @@
+texto consen
+---------------
+
+Na Área de Estudos e Projetos:
+
+Elabora estudos de viabilidade patrimonial, auxiliando o empreendedor na escolha de traçado de linhas de transmissão, gasodutos, etc. Executa levantamento sócio-econômico e fundiário cadastral de áreas atingidas por empreendimentos destinados a aproveitamentos hidrelétricos, termelétricos, faixas de seguranças de linha de transmissão, gasodutos, oleodutos, rodovias e ferrovias, objetivando a identificação e caracterização das propriedades, proprietários, ocupantes e respectiva documentação legal.
+
+Elabora dossiê objetivando a obtenção de licenças e expedição de declaração de utilidade pública, junto aos órgãos governamentais (DUP). Gerencia e/ou executa todo o processo de liberação das terras e benfeitorias, elaborando acordos, contratos e minutas de escrituras, nas negociações amigáveis. Prepara dossiê, da propriedade e do proprietário, instrutivos para ajuizamento de ações judiciais, quanto aos imóveis cujas negociações não tiverem conclusão satisfatória ou não sejam passíveis de aquisição amigável.
+
+Elabora e executa o processo de relocação e/ou reassentamento de pessoas, famílias e núcleos urbanos atingidas. Executa o processo de regularização das propriedades adquiridas sejam por acordos amigáveis, através de escrituras públicas e instrumentos particulares ou por sentenças judiciais, nos respectivos órgãos públicos e cartórios de registros de imóveis.
+
+Na Área de Avaliação de Bens:
+
+Elabora laudos de avaliação para apuração do valor de mercado nas operações de compra e venda de imóveis, seguros, incorporação de empresas, aumento de capital, dação em pagamento, garantia e outros.
+
+Na Gestão Patrimonial:
+
+Mantém controle físico e documental do ativo patrimonial, gestão de contratos de alugueis, comodatos, etc., além do controle de imposto e taxas.
+
+Em Perícias de Engenharia:
+
+Presta Assistência Técnica ao Jurídico nas demandas oriundas de ações extrajudiciais e judiciais nas desapropriações, reintegração de posse, demarcatórias, revisionais e renovatórias de alugueres, etc.
+
+
+Em Topografia:
+
+Executa levantamentos topográficos planialtimétrico cadastral de áreas Urbanas e Rurais, providenciando plantas, memoriais descritivos e serviços de plotagens.
+Georreferenciamento de áreas e imóveis rurais, conforme a Lei 10-267/01.
+Transportes de coordenadas, implantação de marcos e pontos geodésicos, nivelamento e transporte de cotas oficiais (RN).
+Locação em geral, retificação de áreas, desmembramento, remembramento, perícias e assistência técnica em áreas litigiosas.
+Supervisionar, coordenar, gerenciar equipes de topografia e cadastro, processamento, analise e ajustamento de dados de campo para fornecimento de relatório técnico, promove o acompanhamento técnico de obras e serviços.
+
+
+
+texto principal
+-----------------
+
+É uma empresa de consultoria e prestação de serviços, 
+criada no ano de 1999 e coordenada por profissionais com 
+sólida experiência na realização de levantamento fundiário cadastral, 
+liberação e regularização de áreas destinadas a implantação de 
+empreendimentos.
+
+
+
+FONTES
+--------
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Libre+Bodoni:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+font-family: 'Bodoni Moda', serif;
+font-family: 'Libre Bodoni', serif;
+
+
+

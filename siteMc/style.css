@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Libre+Bodoni:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar{
+  display: flex;
+  justify-content: center;/*menu do lado direito"flex-end" esquerdo"flex-start"*/
+  background: rgb(30, 5, 84);
+  font-family: 'Libre Bodoni', serif;
+
+}
+
+.navbar a{
+  color: white;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-align: center;
+  font-size: 20px;
+}
+.navbar a:hover{
+ color: orange; 
+ font-weight: bold;
+ border-top: 4px solid orange;
+
+}
+#botao{
+  margin-right: 8%;
+  font-size: 25px;
+}
+
+
+ 
+
+
+
+
+
+@media screen and (max-width:700px){
+    
+  .navbar{
+      flex-direction: column;
+      
+  }
+}
+
+              /*ATÉ AQUI CABEÇALHO*/
+body{
+  margin:0;
+  padding:0;
+  color: #242424;
+  font-family: sans-serif;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-weight: 900;
+  color: #000;
+  font-family: 'Bodoni Moda', serif; /*TEXTO BRANCO NA IMAGEM*/
+  text-align: center;/*alinhamento texto H's*/
+}
+
+.wrapper{
+  width: 100%;
+  margin: 0 auto;
+}
+
+main{
+  display: block;
+  background-color: #FFF;
+}
+
+.container{
+  width: 100%;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: center;/*alinhamento texto barra*/
+}
+
+section.module p{
+  margin-bottom: 15px;/*ALTURA DA BARRA PADRÃO 40PX*/
+}
+
+section.module:last-child{
+  margin-bottom: 0;
+}
+
+section.module h2{
+  margin-bottom: 40px;
+  font-size: 30px;/*TAMANHO FONTE BARRA*/
+}
+
+section.module.content{
+ padding: 40px 0;
+ background: #ece7d5; /* COR DA BARRA*/
+}
+
+section.module.content2{
+  padding: 20px;
+  background: rgb(30, 5, 84);; /* COR DA BARRA AZUL*/
+  
+  
+ }
+
+section.module.parallax{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh !important;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+section.module.parallax:after{
+  content: "";
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 8;
+  background: -moz-linear-gradient(to bottom, rgba(0,0,0,0) 0, rgba(0,0,0,0) 40%, #000 100% );
+  background: -webkit-linear-gradient(to bottom, rgba(0,0,0,0) 0, rgba(0,0,0,0) 40%, #000 100% );
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 0, rgba(0,0,0,0) 40%, #000 100% );
+}
+
+
+section.module.parallax-1{
+  background-image: url("https://img.freepik.com/fotos-gratis/ajuste-do-sol-atras-da-silhueta-das-torres-de-eletricidade_1127-3239.jpg?w=996&t=st=1688087067~exp=1688087667~hmac=92639991ff80abf8529f33eca6299c9c834b26a2f4069de970f7cf111e1d987b");
+}
+
+section.module.parallax-2{
+  background-image: url("https://img.freepik.com/fotos-gratis/foto-aerea-de-uma-paisagem-cercada-por-montanhas-e-lagos-com-desastre-industrial_181624-14762.jpg?w=740&t=st=1688087484~exp=1688088084~hmac=a0a2af56d5acc1cb79ab390a7948ad7f176c890cad7711d68f94a03b8b0428cb");
+}
+
+section.module.parallax-3{
+  background-image: url("https://img.freepik.com/fotos-gratis/closeup-de-tubulacoes-industriais-em-torno-de-um-fator-em-um-dia-ensolarado_181624-58546.jpg?w=996&t=st=1688087895~exp=1688088495~hmac=46d9676df05b42ac2f5706ab12fa2c5529ecd0b97e7fdb44dd3ce2a27fd800b1s");
+}
+
+section.module.parallax h1{
+  color: #FFF;
+  text-align: center;
+  font-size: 45px;/*TAMANHO TEXTO PÁG*/
+  z-index: 50;
+  text-transform: uppercase;
+}
+
+@media all and (max-width: 820px) {
+  section.module h2 {
+    font-size: 32px;
+  }
+  .module h2, p{
+    padding: 0 8px;
+  }
+
+  .container{
+    margin:0;
+    padding:0;
+  }
+
+  section.module.parallax h1 {
+    font-size: 36px;
+  }
+}
